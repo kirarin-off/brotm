@@ -5,6 +5,38 @@
   "author": "Eiichiro Oda",
   "cover": "https://cover.imglib.info/uploads/cover/one-piece/cover/baed4803-df48-4d82-b173-1a9f68e85985_orig.jpg",
   "chapters": {
+    "1166": {
+      "title": "Новые истории",
+      "volume": "114",
+      "last_updated": "1774004621",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyed82qk7d"
+      }
+    },
+    "1167": {
+      "title": "Сын Иды",
+      "volume": "115",
+      "last_updated": "1774004519",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a6pn52yl"
+      }
+    },
+    "1168": {
+      "title": "Снег Эльбафа",
+      "volume": "115",
+      "last_updated": "1774004493",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny86oa5w4b"
+      }
+    },
+    "1169": {
+      "title": "Я должен умереть прямо сейчас",
+      "volume": "115",
+      "last_updated": "1774004459",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvnxgq948"
+      }
+    },
     "1170": {
       "title": "Противоречие",
       "volume": "115",
