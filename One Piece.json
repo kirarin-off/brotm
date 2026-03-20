@@ -5,8 +5,24 @@
   "author": "Eiichiro Oda",
   "cover": "https://cover.imglib.info/uploads/cover/one-piece/cover/baed4803-df48-4d82-b173-1a9f68e85985_orig.jpg",
   "chapters": {
+    "1173": {
+      "title": "Поколение воинов",
+      "volume": "115",
+      "last_updated": "1774003799",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bn3gnk75"
+      }
+    },
+    "1174": {
+      "title": "Сильнейшее в этом мире.",
+      "volume": "115",
+      "last_updated": "1774003757",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyq5pzpoy2"
+      }
+    },
     "1175": {
-      "title": "1175 - Нидхёгг",
+      "title": "Нидхёгг",
       "volume": "115",
       "last_updated": "1774003312",
       "groups": {
@@ -14,19 +30,19 @@
       }
     },
     "1176": {
-      "title": "1176 - С гордостью",
+      "title": "С гордостью",
       "volume": "115",
       "last_updated": "1774003246",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a84695x3z4x"
+        "115": "/proxy/api/imgchest/chapter/a84695x3z4x"
       }
     },
     "1177": {
-      "title": "1177 - Ярость",
+      "title": "Ярость",
       "volume": "116",
       "last_updated": "1774003139",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqpz8m7q"
+        "116": "/proxy/api/imgchest/chapter/m9yxqpz8m7q"
       }
     }
   }
