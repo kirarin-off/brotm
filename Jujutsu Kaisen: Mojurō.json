@@ -1,0 +1,145 @@
+{
+  "title": "Jujutsu Kaisen: Mojurō",
+  "description": "Прошло 68 лет с тех пор, как закончилась \"Смертельная миграция\". В 2086 году на Землю на космическом корабле прибывает инопланетная раса, известная как симуриане. Судьба мира находится в руках двух шаманов Юки и Цуруги Оккоцу. Маги и инопланетяне, какой хаос родится из этой встречи?",
+  "artist": "IWASAKI Yuuji",
+  "author": "Gege Akutami",
+  "cover": "https://cover.imglib.info/uploads/cover/mimojuro/cover/06ac1e36-18c0-4e04-a347-a726541f2816_orig.jpg",
+  "chapters": {
+    "11": {
+      "title": "Культурный обмен",
+      "volume": "2",
+      "last_updated": "1774005225",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45m9raxy5"
+      }
+    },
+    "12": {
+      "title": "Необитаемый и кишащий демонами",
+      "volume": "2",
+      "last_updated": "1774005251",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nvpdjbyn"
+      }
+    },
+    "13": {
+      "title": "Принятие",
+      "volume": "2",
+      "last_updated": "1774005303",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zp9xrlyj"
+      }
+    },
+    "14": {
+      "title": "Старший брат",
+      "volume": "2",
+      "last_updated": "1774005327",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a6vl3wyl"
+      }
+    },
+    "15": {
+      "title": "Применение Запретной Техники",
+      "volume": "2",
+      "last_updated": "1774005359",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pndj6kyo"
+      }
+    },
+    "16": {
+      "title": "Инстинкт убийства",
+      "volume": "2",
+      "last_updated": "1774005386",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pnngnkyo"
+      }
+    },
+    "17": {
+      "title": "Хаос и Гармония",
+      "volume": "3",
+      "last_updated": "1774005412",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyelw3jm4d"
+      }
+    },
+    "18": {
+      "title": "Тот, кто достоин",
+      "volume": "3",
+      "last_updated": "1774005430",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l5xo9o4x"
+      }
+    },
+    "19": {
+      "title": "Прогресс, пронзающий небеса",
+      "volume": "3",
+      "last_updated": "1774005474",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8466l6ez4x"
+      }
+    },
+    "20": {
+      "title": "Ветераны не умирают",
+      "volume": "3",
+      "last_updated": "1774005488",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wqm88g7x"
+      }
+    },
+    "21": {
+      "title": "Тот, кого ты ждал, явился",
+      "volume": "3",
+      "last_updated": "1774005510",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24anmglg7l"
+      }
+    },
+    "22": {
+      "title": "Перекресток душ",
+      "volume": "3",
+      "last_updated": "1774005540",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l5pg234x"
+      }
+    },
+    "23": {
+      "title": "Ритуал гармонии",
+      "volume": "3",
+      "last_updated": "1774005564",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jnlb5378"
+      }
+    },
+    "24": {
+      "title": "Спасение или же...",
+      "volume": "3",
+      "last_updated": "1774005590",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l6kbw37x"
+      }
+    },
+    "25": {
+      "title": "Светлое будущее",
+      "volume": "3",
+      "last_updated": "1774005703",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg738gbao4r"
+      }
+    },
+    "16.5": {
+      "title": "Том 2: Экстра",
+      "volume": "2",
+      "last_updated": "1774005635",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wjva5b4x"
+      }
+    },
+    "7.5": {
+      "title": "Том 1: Экстра",
+      "volume": "1",
+      "last_updated": "1774005671",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7ovlm6ayp"
+      }
+    }
+  }
+}
