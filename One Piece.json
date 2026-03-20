@@ -5,6 +5,30 @@
   "author": "Eiichiro Oda",
   "cover": "https://cover.imglib.info/uploads/cover/one-piece/cover/baed4803-df48-4d82-b173-1a9f68e85985_orig.jpg",
   "chapters": {
+    "1170": {
+      "title": "Противоречие",
+      "volume": "115",
+      "last_updated": "1774003994",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gqzvrk7j"
+      }
+    },
+    "1171": {
+      "title": "Рагнир",
+      "volume": "115",
+      "last_updated": "1774003955",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp456xk5q75"
+      }
+    },
+    "1172": {
+      "title": "Эльбаф, которым я восхищался",
+      "volume": "115",
+      "last_updated": "1774003891",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wqm2x37x"
+      }
+    },
     "1173": {
       "title": "Поколение воинов",
       "volume": "115",
@@ -34,7 +58,7 @@
       "volume": "115",
       "last_updated": "1774003246",
       "groups": {
-        "115": "/proxy/api/imgchest/chapter/a84695x3z4x"
+        "": "/proxy/api/imgchest/chapter/a84695x3z4x"
       }
     },
     "1177": {
@@ -42,7 +66,7 @@
       "volume": "116",
       "last_updated": "1774003139",
       "groups": {
-        "116": "/proxy/api/imgchest/chapter/m9yxqpz8m7q"
+        "": "/proxy/api/imgchest/chapter/m9yxqpz8m7q"
       }
     }
   }
