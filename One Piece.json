@@ -5,6 +5,22 @@
   "author": "Eiichiro Oda",
   "cover": "https://cover.imglib.info/uploads/cover/one-piece/cover/baed4803-df48-4d82-b173-1a9f68e85985_orig.jpg",
   "chapters": {
+    "1150": {
+      "title": "Доми Реверси",
+      "volume": "113",
+      "last_updated": "1794433114",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lezb264x"
+      }
+    },
+    "1151": {
+      "title": "Достаточно! Я Всё понял!",
+      "volume": "113",
+      "last_updated": "1794433170",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wwzomz7x"
+      }
+    },
     "1166": {
       "title": "Новые истории",
       "volume": "114",
